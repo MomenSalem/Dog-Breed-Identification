@@ -1,1 +1,3 @@
 # Dog-Breed-Identification
+*	Use a pre-trained Image classifier to identify Dog breeds, I predicted the breed using a pre-trained model and produced some statistics about different images.
+*	applied transfer learning to streamline dog breed classification projects, enhancing model accuracy and efficiency. Adapting famous models which are: VGG, Alexnet and Resnet. Integrating performance tracking, and automating system configurations via command line. Demonstrated capability in delivering optimized solutions that significantly reduce computational demands while maintaining high accuracy in real-world applications.
